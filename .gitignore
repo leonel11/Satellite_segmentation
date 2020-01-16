@@ -1,0 +1,14 @@
+# Files
+*.log
+*.txt
+*.png
+*.jpg
+*.tif
+
+#Folders
+*.idea
+*__pycache__
+data
+Theory/DB
+Theory/Документы_БД
+Theory/Патенты
